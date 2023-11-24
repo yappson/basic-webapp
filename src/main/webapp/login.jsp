@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Jenkins</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>HELLo</h1>
-<a href="javaApp.jsp"> Java page</a>
-<a href="login.jsp"> Java page</a>
+<p>Hello welcome to the testing of build and deploy</p>
 </body>
 </html>
