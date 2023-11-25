@@ -12,10 +12,10 @@
 
     <name>basic-webapp</name>
 
-    <properties>
-        <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+     <properties>
+    <maven.compiler.source>21</maven.compiler.source>
+    <maven.compiler.target>21</maven.compiler.target>
+  </properties>
     
     <dependencies>
 	     <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
